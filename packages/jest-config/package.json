@@ -1,0 +1,16 @@
+{
+  "name": "@unlock-protocol/jest-config",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "Unlock's base Jest config",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "glob": "7.2.0",
+    "ts-jest": "27.1.3"
+  },
+  "peerDependencies": {
+    "jest": "27.4.7"
+  }
+}
